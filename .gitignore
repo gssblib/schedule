@@ -1,0 +1,4 @@
+*.pyc
+src/*.egg-info
+bin/
+develop-eggs/
