@@ -1,4 +1,6 @@
+.installed.cfg
 *.pyc
 src/*.egg-info
 bin/
 develop-eggs/
+session.data
